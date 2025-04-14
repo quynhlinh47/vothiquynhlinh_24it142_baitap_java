@@ -1,2 +1,0 @@
-Viết chương trình sử dụng FileInputStream và FileOutputStream 
-để đọc nội dung từ 1 file văn bản và ghi nó vào 1 file khác

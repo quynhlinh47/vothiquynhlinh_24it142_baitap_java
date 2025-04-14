@@ -1,2 +1,0 @@
-Dữ liệu thread 1.
-Dữ liệu thread 2.

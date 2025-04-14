@@ -1,3 +1,0 @@
- Viết chương trình sử dụng Thread 
- để sao chép nội dung 
- từ file nguồn sang file đích.
